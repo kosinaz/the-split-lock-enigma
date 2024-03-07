@@ -1,1 +1,1 @@
-# the-split-lock-enigma
+# The Split Lock Paradox
